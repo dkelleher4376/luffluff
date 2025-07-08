@@ -1,4 +1,3 @@
 import React from "react";
 
-const Slider = () => <input type="range" />;
-export default Slider;
+export const Slider = () => <input type="range" />;
